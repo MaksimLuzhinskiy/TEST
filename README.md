@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/TEST/wild
+https://MaksimLuzhinskiy.github.io/TEST/wild
