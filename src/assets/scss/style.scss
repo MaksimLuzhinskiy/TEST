@@ -1,0 +1,11 @@
+@import "block/_vars";
+$gray:#292929;
+$black:#202020;
+$white: #ffffff;
+
+body{
+    background-color: $white;
+    .proverka{
+        background-color: green;
+    }
+}
